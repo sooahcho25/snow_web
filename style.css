@@ -1,0 +1,8 @@
+body{
+  background-image:url('https://github.com/sooahcho25/snow/blob/main/image1.PNG?raw=true');
+  background-size:cover;
+  margin:0;
+  padding:0;
+  transition: background-image 1s ease-in-out;
+}
+
