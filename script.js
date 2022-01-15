@@ -1,5 +1,5 @@
 window.onload = function(){
-  src = 'https://github.com/sooahcho25/snow/blob/main/image2.PNG?raw=true'
+  src = 'https://github.com/sooahcho25/snow_web/blob/main/image/image2.PNG?raw=true'
   setTimeout(function() { 
 	const img = new Image();
 	img.src = src;
@@ -8,7 +8,7 @@ window.onload = function(){
 	};
   }, 2000);
   
-  src2 = 'https://github.com/sooahcho25/snow/blob/main/image3.PNG?raw=true'
+  src2 = 'https://github.com/sooahcho25/snow_web/blob/main/image/image3.PNG?raw=true'
   setTimeout(function() { 
 	const img = new Image();
 	img.src = src2;
