@@ -1,8 +1,13 @@
 body{
   background-image:url('https://github.com/sooahcho25/snow_web/blob/main/image/image1.PNG?raw=true');
-  background-size:cover;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:top center;
   margin:0;
   padding:0;
+  width:100%;
+  height:100%;
+  resize:both;
   transition: background-image 1s ease-in-out;
 }
 
